@@ -1,4 +1,4 @@
-from view.view import Visualizer
+from view.pygame.view import Visualizer
 from sortingalgorithms.all_algorithms import *
 from exceptions.sorting_algorithm_missing import SortingAlgorithmNotFoundError, getErrorMessage
 
@@ -26,7 +26,7 @@ class ArraySort:
 
 if __name__ == '__main__':
     a = ArraySort([5, 4, 3, 2, 1])
-    a.sort("bubbles") #replace this with a key from the dictionary to see sorted values.
+    a.sort("bubble") #replace this with a key from the dictionary to see sorted values.
     print(a)
     app = Visualizer()
     app.main_loop()
