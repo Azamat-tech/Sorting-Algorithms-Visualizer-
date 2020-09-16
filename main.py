@@ -1,4 +1,4 @@
-from code.view import Visualizer
+from view.view import Visualizer
 from sortingalgorithms.all_algorithms import *
 
 if __name__ == '__main__':

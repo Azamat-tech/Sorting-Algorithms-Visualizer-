@@ -1,5 +1,5 @@
 import pygame
-from code.globalVariables import *
+from view.globalVariables import *
 
 class Visualizer:
 
