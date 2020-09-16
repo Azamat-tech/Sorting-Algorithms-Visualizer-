@@ -1,4 +1,4 @@
-def selectionSort(array):
+def sort(array):
     for item in range(len(array)):
         minimum_item_id = item 
         for item2 in range(item + 1, len(array)):
