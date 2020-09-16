@@ -27,4 +27,4 @@ class Visualizer:
 
             pygame.display.flip()
 
-            self.clock.tick(60)
+            self.clock.tick(FPS)
