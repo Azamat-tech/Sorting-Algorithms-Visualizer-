@@ -1,4 +1,4 @@
-def mergeSort(array):
+def sort(array):
     if len(array) > 1:
         mid = len(array) // 2
         left = array[:mid]

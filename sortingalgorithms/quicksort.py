@@ -25,5 +25,5 @@ def quickSort(array, start, end):
     quickSort(array, start, k)
     quickSort(array, k, end)
 
-def qSort(array):
+def sort(array):
     quickSort(array, 0, len(array))

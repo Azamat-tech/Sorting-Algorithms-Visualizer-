@@ -1,0 +1,14 @@
+#Colours
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+BLUE = (0, 0, 128)
+
+#Screen dimentions
+HEIGHT = 800
+WIDTH = 1600
+
+SIZE = (WIDTH, HEIGHT)
+TOP_RECTANGLE = (WIDTH, HEIGHT//10)
+
+#Frame rate
+FPS = 60
