@@ -26,7 +26,7 @@ class ArraySort:
 
 if __name__ == '__main__':
     a = ArraySort([5, 4, 3, 2, 1])
-    a.sort("bubbles") #replace this with a key from the dictionary to see sorted values
+    a.sort("bubbles") #replace this with a key from the dictionary to see sorted values.
     print(a)
     app = Visualizer()
     app.main_loop()
