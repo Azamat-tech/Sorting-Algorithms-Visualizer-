@@ -5,7 +5,7 @@ BLUE = (0, 0, 128)
 
 #Screen dimentions
 HEIGHT = 800
-WIDTH = 1600
+WIDTH = 1800
 
 SIZE = (WIDTH, HEIGHT)
 TOP_RECTANGLE = (WIDTH, HEIGHT//10)
