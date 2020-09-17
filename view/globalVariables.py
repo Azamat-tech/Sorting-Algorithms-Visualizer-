@@ -5,10 +5,14 @@ BLUE = (0, 0, 128)
 
 #Screen dimentions
 HEIGHT = 800
-WIDTH = 1600
+WIDTH = 1500
 
 SIZE = (WIDTH, HEIGHT)
 TOP_RECTANGLE = (WIDTH, HEIGHT//10)
+
+#Button size
+BUTTON_WIDTH = 150
+BUTTON_HEIGHT = 50
 
 #Frame rate
 FPS = 60
